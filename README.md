@@ -1,2 +1,2 @@
-# Project-10
-Cruise Ship
+# C10: TRAVELING IN SHIP
+PROJECT 10
